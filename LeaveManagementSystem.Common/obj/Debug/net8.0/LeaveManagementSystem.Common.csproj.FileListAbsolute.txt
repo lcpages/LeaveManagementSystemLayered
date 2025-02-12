@@ -1,0 +1,11 @@
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\bin\Debug\net8.0\LeaveManagementSystem.Common.deps.json
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\bin\Debug\net8.0\LeaveManagementSystem.Common.dll
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\bin\Debug\net8.0\LeaveManagementSystem.Common.pdb
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\net8.0\LeaveManagementSystem.Common.GeneratedMSBuildEditorConfig.editorconfig
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\net8.0\LeaveManagementSystem.Common.AssemblyInfoInputs.cache
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\net8.0\LeaveManagementSystem.Common.AssemblyInfo.cs
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\net8.0\LeaveManagementSystem.Common.csproj.CoreCompileInputs.cache
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\net8.0\LeaveManagementSystem.Common.dll
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\net8.0\refint\LeaveManagementSystem.Common.dll
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\net8.0\LeaveManagementSystem.Common.pdb
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\net8.0\ref\LeaveManagementSystem.Common.dll

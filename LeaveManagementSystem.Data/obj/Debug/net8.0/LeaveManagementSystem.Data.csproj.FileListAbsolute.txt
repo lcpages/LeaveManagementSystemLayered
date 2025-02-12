@@ -1,0 +1,17 @@
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\obj\Debug\net8.0\LeaveManagementSystem.Data.GeneratedMSBuildEditorConfig.editorconfig
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\obj\Debug\net8.0\LeaveManagementSystem.Data.AssemblyInfoInputs.cache
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\obj\Debug\net8.0\LeaveManagementSystem.Data.AssemblyInfo.cs
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\obj\Debug\net8.0\LeaveManagementSystem.Data.csproj.CoreCompileInputs.cache
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\bin\Debug\net8.0\LeaveManagementSystem.Data.deps.json
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\bin\Debug\net8.0\LeaveManagementSystem.Data.runtimeconfig.json
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\bin\Debug\net8.0\LeaveManagementSystem.Data.dll
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\bin\Debug\net8.0\LeaveManagementSystem.Data.pdb
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\obj\Debug\net8.0\LeaveManagementSystem.Data.csproj.AssemblyReference.cache
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\obj\Debug\net8.0\LeaveManagementSystem.Data.dll
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\obj\Debug\net8.0\refint\LeaveManagementSystem.Data.dll
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\obj\Debug\net8.0\LeaveManagementSystem.Data.pdb
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\obj\Debug\net8.0\LeaveManagementSystem.Data.genruntimeconfig.cache
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\obj\Debug\net8.0\ref\LeaveManagementSystem.Data.dll
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\bin\Debug\net8.0\LeaveManagementSystem.Common.dll
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\bin\Debug\net8.0\LeaveManagementSystem.Common.pdb
+C:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Data\obj\Debug\net8.0\LeaveManagementSystem.Data.csproj.CopyComplete
