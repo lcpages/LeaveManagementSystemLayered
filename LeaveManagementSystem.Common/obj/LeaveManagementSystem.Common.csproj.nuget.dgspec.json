@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\LeaveManagementSystem.Common.csproj": {}
+    "C:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\LeaveManagementSystem.Common.csproj": {}
   },
   "projects": {
-    "c:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\LeaveManagementSystem.Common.csproj": {
+    "C:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\LeaveManagementSystem.Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\LeaveManagementSystem.Common.csproj",
+        "projectUniqueName": "C:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\LeaveManagementSystem.Common.csproj",
         "projectName": "LeaveManagementSystem.Common",
-        "projectPath": "c:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\LeaveManagementSystem.Common.csproj",
+        "projectPath": "C:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\LeaveManagementSystem.Common.csproj",
         "packagesPath": "C:\\Users\\lcpages\\.nuget\\packages\\",
-        "outputPath": "c:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\obj\\",
+        "outputPath": "C:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lcpages\\AppData\\Roaming\\NuGet\\NuGet.Config"
