@@ -15,3 +15,4 @@ c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Application\obj\D
 c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Application\obj\Debug\net8.0\refint\LeaveManagementSystem.Application.dll
 c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Application\obj\Debug\net8.0\LeaveManagementSystem.Application.pdb
 c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Application\obj\Debug\net8.0\ref\LeaveManagementSystem.Application.dll
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Application\obj\Debug\net8.0\LeaveManagementSystem.Application.sourcelink.json

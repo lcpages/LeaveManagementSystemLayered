@@ -2650,11 +2650,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Data\\LeaveManagementSystem.Data.csproj",
+      "projectUniqueName": "c:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Data\\LeaveManagementSystem.Data.csproj",
       "projectName": "LeaveManagementSystem.Data",
-      "projectPath": "C:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Data\\LeaveManagementSystem.Data.csproj",
+      "projectPath": "c:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Data\\LeaveManagementSystem.Data.csproj",
       "packagesPath": "C:\\Users\\lcpages\\.nuget\\packages\\",
-      "outputPath": "C:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Data\\obj\\",
+      "outputPath": "c:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Data\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lcpages\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2669,8 +2669,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\LeaveManagementSystem.Common.csproj": {
-              "projectPath": "C:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\LeaveManagementSystem.Common.csproj"
+            "c:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\LeaveManagementSystem.Common.csproj": {
+              "projectPath": "c:\\Prog\\trainings\\LeaveManagementSystem2\\LeaveManagementSystem.Common\\LeaveManagementSystem.Common.csproj"
             }
           }
         }

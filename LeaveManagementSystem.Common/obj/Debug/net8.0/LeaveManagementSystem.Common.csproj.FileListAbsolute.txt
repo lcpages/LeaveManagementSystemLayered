@@ -9,3 +9,4 @@ c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\
 c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\net8.0\refint\LeaveManagementSystem.Common.dll
 c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\net8.0\LeaveManagementSystem.Common.pdb
 c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\net8.0\ref\LeaveManagementSystem.Common.dll
+c:\Prog\trainings\LeaveManagementSystem2\LeaveManagementSystem.Common\obj\Debug\net8.0\LeaveManagementSystem.Common.sourcelink.json
